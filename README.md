@@ -1,5 +1,5 @@
 # Coursera_Bootstrap
-Front-End Bootstrap certification
+Front-End Bootstrap certification with Bootstrap and javascript by Pierce Dsouza
 
 # Week 1
  - Git and Node
